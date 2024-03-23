@@ -1,5 +1,5 @@
 # Primera prueba usando JPA
 ### Modelo de Capas
- ![](img/modelodeCapas.png)
+ ![](img/modeloDeCapas.png)
 ### Diagrama UML
  ![](img/diagrama.png)
